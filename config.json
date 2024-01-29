@@ -16,7 +16,7 @@
     "login_image":"logo.svg",
     "admin_user":"As",
     "admin_password": "batman",
-    "upload_location":"/storage/emulated/0/Documents/Pydroid3/python-flask/static/img"
+    "upload_location":"./static/img"
 
 
   }
