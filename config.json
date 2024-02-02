@@ -4,7 +4,7 @@
     "local_server":"True",
     "local_uri": "sqlite:///project.db",
     "prod_uri":"mysql://root:@localhost/codingthunder",
-    "fb_url":"https://facebook.com/codingthunder",
+    "fb_url":"https://blog-javamindful.koyeb.app/",
     "tw_url":"https://www.instagram.com/java.mindful?igsh=OGQ5ZDc2ODk2ZA==",
     "gh_url": "https://github.com/aryan0955",
     "blog_name": "Java Mindful",
